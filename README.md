@@ -5,8 +5,7 @@ The "Data Dictionary" contains all the information/description of the features/c
 The "asset_details" comprises the mapping of Asset_ID with the Asset_Name.
 
 Please find the link to the dataset here -
-Testing data - /kaggle/input/ai-guild/AI Fluency - Competition Dataset/AI Fluency - Testing Data.csv
-Training data - /kaggle/input/ai-guild/AI Fluency - Competition Dataset/AI Fluency - Training Data.csv
+/kaggle/input/ai-guild/AI Fluency - Competition Dataset/AI Fluency - Testing Data.csv ,  /kaggle/input/ai-guild/AI Fluency - Competition Dataset/AI Fluency - Training Data.csv
 
 
  
